@@ -1,0 +1,7 @@
+{
+  "name": "pvilchesPro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
